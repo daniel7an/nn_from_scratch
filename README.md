@@ -1,6 +1,6 @@
 # Neural Network From Scratch
 This project involves implementing a neural network from scratch and training it on the [MNIST dataset](https://www.kaggle.com/datasets/hojjatk/mnist-dataset) for handwritten digit classification. 
-The code is developed based on the principles outlined in the book ["Neural Network from Scratch"](nnfs.io).
+The code is developed based on the principles outlined in the book ["Neural Network from Scratch"](https://nnfs.io/).
 
 
 ## This neural network implementation consists of the following components:
